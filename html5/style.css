@@ -3,7 +3,7 @@ body {
 }
 
 #title, .subtitle, .post_title {
-    color: rgba(143, 113, 50, 0.433);
+    color: rgb(112, 80, 10);
 }
 
 .post_title {
